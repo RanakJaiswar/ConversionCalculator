@@ -1,8 +1,8 @@
-### ConversionCalculator
+# ConversionCalculator
 
-# basic conversion calculator build with python
+## basic conversion calculator build with python
 
 using tkinter module
 
-# To Run
+### To Run
 on cmd `python new.py`
